@@ -34,7 +34,7 @@ gem "bootsnap", require: false
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 
-gem 'active_interaction', '~> 5.4'
+gem 'active_interaction', '~> 5.5'
 
 group :development, :test do
   gem 'rspec-rails', '~> 7.0.0'

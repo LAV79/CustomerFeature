@@ -45,7 +45,7 @@ GEM
       erubi (~> 1.11)
       rails-dom-testing (~> 2.2)
       rails-html-sanitizer (~> 1.6)
-    active_interaction (5.4.0)
+    active_interaction (5.5.0)
       activemodel (>= 5.2, < 9)
       activesupport (>= 5.2, < 9)
     activejob (7.2.2.1)
@@ -304,7 +304,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  active_interaction (~> 5.4)
+  active_interaction (~> 5.5)
   bootsnap
   brakeman
   capybara
